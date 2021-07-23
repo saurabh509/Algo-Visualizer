@@ -1,0 +1,26 @@
+button{
+  margin:8px;
+}
+
+body{
+  margin: 0;
+}
+
+.array-container {
+  position: absolute;
+  left: 100px;
+  /* top: 100px; */
+}
+
+.array-bar {
+  width: 45px;
+  display: inline-block;
+  margin: 0 2px;
+}
+
+.array-buttons{
+  position: absolute;
+  bottom: 40px;
+  left: 30%;
+  display: block;
+}
