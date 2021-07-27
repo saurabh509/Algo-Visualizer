@@ -1,5 +1,5 @@
 button{
-  margin:8px;
+  margin:0.4rem;
 }
 
 body{
@@ -8,7 +8,7 @@ body{
 
 .array-container {
   position: absolute;
-  left: 100px;
+  left: 6vw;
   /* top: 100px; */
 }
 
@@ -20,7 +20,7 @@ body{
 
 .array-buttons{
   position: absolute;
-  bottom: 40px;
-  left: 30%;
+  bottom: 6vh;
+  left: 25vw;
   display: block;
 }
